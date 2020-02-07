@@ -1,0 +1,12 @@
+body {
+    border: 20px solid lightgray;
+    padding: 20px;
+}
+
+.date {
+    color: rgb(0, 132, 255);
+}
+.quote {
+    border-left: 3px solid lightgray;
+    padding-left: 10px;
+}
